@@ -1,0 +1,471 @@
+achievement_tbl = {
+	[700] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Invincible]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 10,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 10,000,000"
+		},
+		resource = {
+			[1] = { text = "EXP +10%" },
+		},
+		reward = { title = 700 },
+		score = 0
+	},
+	[701] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Hero]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 30,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 30,000,000"
+		},
+		resource = {
+			[1] = { text = "FLEE +5" },
+		},
+		reward = { title = 701 },
+		score = 0
+	},
+	[702] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Nobel]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 50,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 50,000,000"
+		},
+		resource = {
+			[1] = { text = "LUK +1" },
+		},
+		reward = { title = 702 },
+		score = 0
+	},
+	[703] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Berserker]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 70,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 70,000,000"
+		},
+		resource = {
+			[1] = { text = "HIT +5" },
+		},
+		reward = { title = 703 },
+		score = 0
+	},
+	[704] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Legend]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 90,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 90,000,000"
+		},
+		resource = {
+			[1] = { text = "DROP +2%" },
+		},
+		reward = { title = 704 },
+		score = 0
+	},
+	[705] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Legendary]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 110,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 110,000,000"
+		},
+		resource = {
+			[1] = { text = "AGI +1" },
+		},
+		reward = { title = 705 },
+		score = 0
+	},
+	[706] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Mythical]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 130,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 130,000,000"
+		},
+		resource = {
+			[1] = { text = "VIT +1" },
+		},
+		reward = { title = 706 },
+		score = 0
+	},
+	[707] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Immortal]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 150,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 150,000,000"
+		},
+		resource = {
+			[1] = { text = "STR +1" },
+		},
+		reward = { title = 707 },
+		score = 0
+	},
+	[708] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Immortal Spirit]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 170,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 170,000,000"
+		},
+		resource = {
+			[1] = { text = "Weight +300" },
+		},
+		reward = { title = 708 },
+		score = 0
+	},
+	[709] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Commander]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 190,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 190,000,000"
+		},
+		resource = {
+			[1] = { text = "SP Recovery +10%" },
+		},
+		reward = { title = 709 },
+		score = 0
+	},
+	[710] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Saint]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 210,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 210,000,000"
+		},
+		resource = {
+			[1] = { text = "INT +1" },
+		},
+		reward = { title = 710 },
+		score = 0
+	},
+	[711] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Angel]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 230,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 230,000,000"
+		},
+		resource = {
+			[1] = { text = "DEX +1" },
+		},
+		reward = { title = 711 },
+		score = 0
+	},
+	[712] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Angel Of Death]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 250,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 250,000,000"
+		},
+		resource = {
+			[1] = { text = "ASPD +2%" },
+		},
+		reward = { title = 712 },
+		score = 0
+	},
+	[713] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Guardain Spirit]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 270,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 270,000,000"
+		},
+		resource = {
+			[1] = { text = "DROP +5%" },
+		},
+		reward = { title = 713 },
+		score = 0
+	},
+	[714] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Master]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 300,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 300,000,000"
+		},
+		resource = {
+			[1] = { text = "ลดระยะเวลาร่ายเวทย์ลง 3%" },
+		},
+		reward = { title = 714 },
+		score = 0
+	},
+	[715] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Golden]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 330,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 330,000,000"
+		},
+		resource = {
+			[1] = { text = "MATK +2%" },
+		},
+		reward = { title = 715 },
+		score = 0
+	},
+	[716] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Evil God]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 360,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 360,000,000"
+		},
+		resource = {
+			[1] = { text = "ATK +2%" },
+		},
+		reward = { title = 716 },
+		score = 0
+	},
+	[717] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [King Of Hell]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 390,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 390,000,000"
+		},
+		resource = {
+			[1] = { text = "ป้องกันโจมตีกึ่งมนุษย์ 2%" },
+		},
+		reward = { title = 717 },
+		score = 0
+	},
+	[718] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [King Of God]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 420,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 420,000,000"
+		},
+		resource = {
+			[1] = { text = "โจมตีกึ่งมนุษย์แรงขึ้น 2%" },
+		},
+		reward = { title = 718 },
+		score = 0
+	},
+	[719] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [King Of Heaven]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 450,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 450,000,000"
+		},
+		resource = {
+			[1] = { text = "ป้องกันสถานะ Stun 10%" },
+		},
+		reward = { title = 719 },
+		score = 0
+	},
+	[720] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [God Of Prophesy]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 480,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 480,000,000"
+		},
+		resource = {
+			[1] = { text = "Allstats +1" },
+		},
+		reward = { title = 720 },
+		score = 0
+	},
+	[721] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [God Of Hunt]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 510,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 510,000,000"
+		},
+		resource = {
+			[1] = { text = "Critical DMG +10%" },
+		},
+		reward = { title = 721 },
+		score = 0
+	},
+	[722] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [God Of War]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 540,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 540,000,000"
+		},
+		resource = {
+			[1] = { text = "MaxHp & MaxSp +4%" },
+		},
+		reward = { title = 722 },
+		score = 0
+	},
+	[723] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [God Of Death]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 570,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 570,000,000"
+		},
+		resource = {
+			[1] = { text = "DROP +10%" },
+		},
+		reward = { title = 723 },
+		score = 0
+	},
+	[724] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [Demi-God]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 600,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 600,000,000"
+		},
+		resource = {
+			[1] = { text = "Allstats +1 , AKT & MATK +3%" },
+		},
+		reward = { title = 724 },
+		score = 0
+	},
+	[725] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "ได้รับ Rank Title [God]",
+		content = {
+			summary = "สะสมค่าประสบการณ์จำนวน 630,000,000",
+			details = "สะสมค่าประสบการณ์จำนวน 630,000,000"
+		},
+		resource = {
+			[1] = { text = "จะได้รับสกิลพิเศษตามอาชีพดังนี้" },
+		},
+		reward = { title = 725 },
+		score = 0
+	},	
+	
+}
+
+function main()
+	for achieveID, achieveInfo in pairs(achievement_tbl) do
+		result, msg = InsertAchieveInfo(achieveID, achieveInfo.title, achieveInfo.content.summary, achieveInfo.content.details, achieveInfo.score)
+		if not result then
+			return false, msg
+		end
+		if nil ~= achieveInfo.resource then
+			for index, resource in ipairs(achieveInfo.resource) do
+				if nil ~= resource.shortcut then
+					shortcut = resource.shortcut
+				else
+					shortcut = -1
+				end
+				if 0 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, 0, shortcut)
+				elseif 1 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, resource.count, shortcut)
+				end
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		if nil ~= achieveInfo.reward then
+			if nil ~= achieveInfo.reward.item then
+				result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
+			end
+			if nil ~= achieveInfo.reward.title then
+				result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
+				if not result then
+					return false, msg
+				end
+			end
+			if nil ~= achieveInfo.reward.buff then
+				result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
+		if not result then
+			return false, msg
+		end
+		result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
+		if not result then
+			return false, msg
+		end
+	end
+	return true, "good"
+end
