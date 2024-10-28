@@ -27,4 +27,3 @@
 338 Additional client validation (Recommended)
 348 Send client flags to server (Recommended)
 404 Use borderless mode in full screen (Recommended)
-427 Check is servertype in xml file was set to correct value (Recommended)
