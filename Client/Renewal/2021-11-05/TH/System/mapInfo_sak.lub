@@ -1,0 +1,40 @@
+mapTbl = {
+	["icecastle.rsw"] = {
+		displayName = "Isgard Ice Castle",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Isgard",
+			mainTitle = "Ice Castle"
+		},
+		backgroundBmp = "village"
+	}
+}
+main = function()
+  for name,info in pairs(mapTbl) do
+    displayName = "Unknown Place"
+    if info.displayName ~= nil then
+      displayName = info.displayName
+    end
+    notify_enter = false
+    if info.notifyEnter ~= nil then
+      notify_enter = info.notifyEnter
+    end
+    result = AddMapDisplayName(name, displayName, notify_enter)
+    if info.signName ~= nil then
+      subTitle = ""
+      if (info.signName).subTitle ~= nil then
+        subTitle = (info.signName).subTitle
+      end
+      mainTitle = ""
+      if (info.signName).mainTitle ~= nil then
+        mainTitle = (info.signName).mainTitle
+      end
+      result = AddMapSignName(name, subTitle,
+			mainTitle)
+    end
+    if info.backgroundBmp ~= nil then
+      result = AddMapBackgroundBmp(name, info.backgroundBmp)
+    end
+  end
+  return result, msg
+end

@@ -1,0 +1,71 @@
+tbl = {
+	[1] = {
+		Title = "√“¬™◊ËÕ‰Õ‡∑¡∑’Ë¡’‚Õ°“ ‰¥È",
+		Search = 1,
+		Image = "¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\\tipbox\\tip00001",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"\\n1 ï<ITEM>Costume Light Darkness Wing<INFO>38015</INFO></ITEM>   \\n2 ï<ITEM>Green Bubble Recovery 1 Days<INFO>46840</INFO></ITEM>   \\n3 ï<ITEM>ASPD Intensifying Box<INFO>3000</INFO></ITEM>   \\n4 ï<ITEM>Abrasive 5 Box<INFO>13717</INFO></ITEM>   \\n5 ï<ITEM>ATK Intensifying Box<INFO>3004</INFO></ITEM>   \\n6 ï<ITEM>Boarding Halter Box 1Day<INFO>16683</INFO></ITEM>   \\n7 ï<ITEM>Gym Membership Card<INFO>7776</INFO></ITEM>   \\n8 ï<ITEM>Random Cash Box<INFO>48062</INFO></ITEM>   \\n9 ï<ITEM>Lutie's Spicy Noodle<INFO>12059</INFO></ITEM>   \\n10 ï<ITEM>Butter Sandwich<INFO>12064</INFO></ITEM>   \\n11 ï<ITEM>HE Battle Manual 100<INFO>52310</INFO></ITEM>   \\n12 ï<ITEM>HE Battle Manual 200<INFO>12411</INFO></ITEM>   \\n13 ï<ITEM>Megaphone<INFO>12221</INFO></ITEM>   \\n14 ï<ITEM>Herbal Ribs<INFO>12044</INFO></ITEM>   \\n15 ï<ITEM>Morocc Fruit Wine<INFO>12049</INFO></ITEM>   \\n16 ï<ITEM>Seafood Salad<INFO>12054</INFO></ITEM>   \\n17 ï<ITEM>Mermaid Cuisine<INFO>12069</INFO></ITEM>"
+		}
+	},
+	[2] = {
+		Title = "√“¬™◊ËÕ¢Õß∑’Ë¡’‚Õ°“ ‰¥È",
+		Search = 1,
+		Image = "¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\\tipbox\\tip00002",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"\\n1 ï<ITEM>Costume Amistr Beret<INFO>20197</INFO></ITEM>   \\n2 ï<ITEM>Costume Kishu Dog<INFO>31600</INFO></ITEM>   \\n3 ï<ITEM>Costume Earth Master<INFO>31885</INFO></ITEM>   \\n4 ï<ITEM>Costume Niffleheim Bunny Hat<INFO>20398</INFO></ITEM>   \\n5 ï<ITEM>Costume Belka Strelka<INFO>710005</INFO></ITEM>   \\n6 ï<ITEM>Costume Eremes Scarf<INFO>20405</INFO></ITEM>   \\n7 ï<ITEM>Costume Princess Ribbon<INFO>31565</INFO></ITEM>   \\n8 ï<ITEM>Costume Katashiro Flying<INFO>420016</INFO></ITEM>   \\n9 ï<ITEM>Costume Yawata Seal<INFO>31735</INFO></ITEM>   \\n10 ï<ITEM>Costume Snownow Hat<INFO>20242</INFO></ITEM>   \\n11 ï<ITEM>Costume Baby Leopard Cat<INFO>31456</INFO></ITEM>   \\n12 ï<ITEM>Costume Black Cat Hood<INFO>31028</INFO></ITEM>   \\n13 ï<ITEM>Costume Diabolic Headphone<INFO>20175</INFO></ITEM>   \\n14 ï<ITEM>Costume Let It Snow<INFO>31390</INFO></ITEM>   \\n15 ï<ITEM>Costume Wandering Hat<INFO>19656</INFO></ITEM>   \\n16 ï<ITEM>Costume Fawn Ears<INFO>31509</INFO></ITEM>   \\n17 ï<ITEM>Costume Nydhoggur Wig White<INFO>31406</INFO></ITEM>   \\n18 ï<ITEM>Costume Happy Rabbit Ribbon<INFO>31529</INFO></ITEM>   \\n19 ï<ITEM>Costume Lolita Up Upper<INFO>31495</INFO></ITEM>"               
+		}
+	},
+	[3] = {
+		Title = "√“¬™◊ËÕ¢Õß∑’Ë¡’‚Õ°“ ‰¥È",
+		Search = 1,
+		Image = "¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\\tipbox\\tip00003",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"\\n1 ï<ITEM>Costume Eaglehorn [Bow]<INFO>210008</INFO></ITEM>   \\n2 ï<ITEM>Costume Dragonbane [Spear]<INFO>210022</INFO></ITEM>   \\n3 ï<ITEM>Costume Deathdance [Katar]<INFO>210020</INFO></ITEM>   \\n4 ï<ITEM>Costume Tempest Surge [Axe]<INFO>80030</INFO></ITEM>   \\n5 ï<ITEM>Costume Arch Bishop [Mace]<INFO>210021</INFO></ITEM>   \\n6 ï<ITEM>Costume Arcane Staf [Staff]<INFO>210023</INFO></ITEM>"               
+		}
+	},
+	[4] = {
+		Title = "√“¬™◊ËÕ¢Õß∑’Ë¡’‚Õ°“ ‰¥È",
+		Search = 1,
+		Image = "¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\\tipbox\\tip00004",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"\\n1 ï<ITEM>Field Manual 100%<INFO>14533</INFO></ITEM>   \\n2 ï<ITEM>Field Manual 150%<INFO>12263</INFO></ITEM>   \\n3 ï<ITEM>Bubble Gum ( Equip )<INFO>12497</INFO></ITEM>   \\n4 ï<ITEM>Bubble Gum ( Card )<INFO>12498</INFO></ITEM>   \\n5 ï<ITEM>Dungeon Teleport Scroll<INFO>14527</INFO></ITEM>"               
+		}
+	}
+}
+
+function main()
+	for DocumentNum, INFO in pairs(tbl) do
+		result, msg = AddTip(DocumentNum, INFO.Title, INFO.Search, INFO.Image)
+		if not result then
+			return false, msg
+		end
+		result, msg = AddImgcoord(DocumentNum, INFO.Imgcoord.Position, INFO.Imgcoord.Size)
+		if not result then
+			return false, msg
+		end
+		if not INFO.PageEX then
+			result, msg = AddPageEx(DocumentNum, -1, 0, 0, 0, 0, 0, 0, 0)
+			if not result then
+				return false, msg
+			end
+		else
+			for k, v in pairs(INFO.PageEX) do
+				result, msg = AddPageEx(DocumentNum, v.EffectNum, v.Twinkle, v.StartX, v.StartY, v.DistX, v.DistY, v.MoveTime)
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		for k, v in pairs(INFO.Page) do
+			result, msg = AddPage(DocumentNum, v)
+			if not result then
+				return false, msg
+			end
+		end
+	end
+	return true, "good"
+end
